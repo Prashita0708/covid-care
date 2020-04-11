@@ -1,2 +1,3 @@
-# covid-care
-Application for response to COVID-19 and beyond.
+# covidcare
+
+Application in response to COVID-19
